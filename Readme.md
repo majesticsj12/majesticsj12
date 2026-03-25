@@ -30,9 +30,9 @@
 
 ## Github Stats  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Majestic-MJ12&show_icons=true&theme=shadow_blue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majesticsj12&show_icons=true&theme=shadow_blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Majestic-MJ12&theme=shadow_blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majesticsj12&theme=shadow_blue)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Majestic-MJ12&&style=flat-square" align="center" />
