@@ -56,12 +56,6 @@ Another small Unreal Engine game project created as a personal experiment.
 
 <br/>
 
-## GitHub Stats
+## GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majesticsj12&show_icons=true&theme=shadow_blue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majesticsj12&theme=shadow_blue)
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Majestic-MJ12&&style=flat-square" align="center" />
-</div>
+You’ll find here a selection of my projects, experiments, and small game prototypes.
