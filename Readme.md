@@ -1,7 +1,7 @@
 # Hello, World! 👋
 
 <div align="center">
-  <img src="https://github.com/Majestic-MJ12/Majestic-MJ12/blob/main/IT_blue_2048px.png" align="center" height="480" width="720" />
+  <img src="https://github.com/Majestic-MJ12/Majestic-MJ12/blob/main/Majestic-Background_1675_941px.jpg" align="center" height="480" width="720" />
 </div>
 
 ### <div align="center">I'm Florent, a tech enthusiast who enjoys building projects, learning new tools, and experimenting with game creation and development workflows.</div>
