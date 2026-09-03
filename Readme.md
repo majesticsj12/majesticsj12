@@ -30,22 +30,6 @@
 
 <br/>
 
-## Small Unreal Engine Games 🎮
-
-These are small Unreal Engine games I created for fun, practice, and experimentation.
-
-### Chlorine Shadows
-A small Unreal Engine project made for fun and learning.
-
-[Download Chlorine Shadows (ZIP)](https://drive.proton.me/urls/SA1S9GKHSW#SFkew5IP9tpz)
-
-### The Apartment of Time
-Another small Unreal Engine game project created as a personal experiment.
-
-[Download The Apartment of Time (ZIP)](https://drive.proton.me/urls/GSNEBD5S1R#JfGgZi4wbCos)
-
-<br/>
-
 ## Connect with Me
 
 <div align="center">
