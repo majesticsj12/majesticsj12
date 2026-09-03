@@ -42,4 +42,4 @@
 
 ## GitHub
 
-You’ll find here a selection of my projects, experiments, and small game prototypes.
+You’ll find here a selection of my projects.
